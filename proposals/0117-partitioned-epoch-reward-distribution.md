@@ -1,13 +1,14 @@
 ---
-simd: '0015'
+simd: '0117'
 title: Partitioned Epoch Rewards Distribution
 authors:
-  - Haoran Yi (Solana Labs)
+  - Tyera Eulberg (Anza)
 category: Standard
 type: Core
 status: Draft
-created: 2023-03-02
+created: 2024-02-16
 feature: (fill in with feature tracking issues once accepted)
+supersedes: 0015
 ---
 
 ## Summary
