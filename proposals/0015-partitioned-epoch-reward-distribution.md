@@ -1,7 +1,7 @@
 ---
 simd: '0015'
 title: Partitioned Epoch Rewards Distribution
-authors: Haoran Yi (Solana Labs), Haoran Yi (Solana Labs)
+authors: Haoran Yi (Anza)<br>Justin Starry (Anza)<br>Tyera Eulberg (Anza)
 category: Standard
 type: Core
 status: Draft
